@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Isory Santana</h1>
-<h3 align="center"> "Hello, I'm a computer systems student with a focus on software development."</h3>
+<h3 align="center"> "I'm a computer systems student with a focus on software development."</h3>
 
 ### Liked my Github:question::point_right: [Give Me Stars]:star: :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isorym21&label=Profile%20views&color=0e75b6&style=flat" alt="Isorym21" /> </p>
 
-- 👨‍💻 All about me is at [My Website](isorysantana.com/)
+- 👨‍💻 All about me is at[My Website}(isorysantana.com/)     
 
 - 📫 How to reach me **isory.santana@mail.citytech.cuny.edu**
 
