@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **isory.santana@mail.citytech.cuny.edu**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1a2Xw_ZY45mp2tAh5ea_kDduqQWBOEzri/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/122YT7XSMck5y4t9KlVL2xbTsHw-7oocF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
