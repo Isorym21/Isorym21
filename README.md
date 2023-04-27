@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isorym21&label=Profile%20views&color=0e75b6&style=flat" alt="Isorym21" /> </p>
 
-- 👨‍💻 All about me is at [My Website](isorysantana.com/)     
+- 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/isory-santana/)     
 
 - 📫 How to reach me **isorymsantana@gmail.com**
 
