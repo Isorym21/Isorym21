@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Isory Santana</h1>
-<h3 align="center"> "A Computer Systems Student with a focus on the Software Development"</h3>
+<h3 align="center"> "Junior Associate | Engineering team"</h3>
 
 ### Liked my Github:question::point_right: [Give Me Stars]:star: :sparkles:
 
