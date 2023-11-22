@@ -10,8 +10,7 @@
 - 📫 How to reach me **isorymsantana@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1tXs4S2fVaD0oi1R3BAm-LRSno1-yTUZX/view?usp=sharing)
-- Buy me Pizza 🍕: https://www.buymeacoffee.com/isorym21
-
+- [Buy me Pizza🍕] (https://www.buymeacoffee.com/isorym21)
 
 
 <h3 align="left">Connect with me:</h3>
