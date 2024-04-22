@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **isorymsantana@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1tXs4S2fVaD0oi1R3BAm-LRSno1-yTUZX/view?usp=sharing)
-
-- Buy me [Pizza🍕](https://www.buymeacoffee.com/isorym21)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/isory-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isory-santana" height="30" width="40" /></a>
