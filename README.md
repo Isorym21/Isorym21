@@ -1,6 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Isory Santana</h1>
-<h3 align="center"> "Software Engineer Apprentice at Deloitte Consulting"</h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Isory Santana :star: :sparkles: </h1>
+<h3 align="center"> "Software Engineer Apprentice at Deloitte Consulting"</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isorym21&label=Profile%20views&color=0e75b6&style=flat" alt="Isorym21" /> </p>
 
